@@ -1,8 +1,8 @@
 {
   "login" : {
       "data" : {
-        "result": "success",
-        "token": "abcdefghijklmnop"
+        "result": 1,
+        "id": 100
       }
   }
 }
