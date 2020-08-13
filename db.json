@@ -5,6 +5,7 @@
   },
   "send_phone_number" : {
         "result": 1,
-        "otp": 1234
+        "otp": 1234",
+        "phone": "09123456789"
       }
 }
