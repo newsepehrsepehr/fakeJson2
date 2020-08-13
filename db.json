@@ -1,14 +1,10 @@
 {
   "login" : {
-      "data" : {
         "result": 1,
         "id": 100
-      }
   },
   "send_phone_number" : {
-      "data" : {
         "result": 1,
         "otp": 123456
       }
-  }
 }
