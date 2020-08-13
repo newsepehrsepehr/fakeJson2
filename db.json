@@ -9,8 +9,8 @@
         "phone" : "09123456789"
   },
   "send_verification_code" : {
-    "result": 1,
-    "id": 100,
-    "phone": "09123456789"
+        "result": 1,
+        "id": 100,
+        "phone": "09123456789"
   }
 }
