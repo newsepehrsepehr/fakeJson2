@@ -18,5 +18,12 @@
      {"id" : 2 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/موسیقی-1.png"},
      {"id" : 3 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/فیلم-و-سریال.png"},
      {"id" : 4 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/شعر-و-ادبیات-داستانی-2.png"}
+  ],
+  "product_cards" : [
+     {"id" : 1 , "size" : "half" , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/گالری-فرش-1.png"},
+     {"id" : 2 , "size" : "half" , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/تابلوهای-نقاشی-1.png"},
+     {"id" : 3 , "size" : "half" , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/گالری-موسیقی-3.png"},
+     {"id" : 4 , "size" : "full" , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/صنایع-مس-پرداز.png"},
+    {"id" : 5 , "size" : "full" , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/صنایع-چرم.png"},
   ]
 }
