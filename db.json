@@ -14,9 +14,9 @@
         "phone": "09123456789"
   },
    "article_cards" : [
-     {"id" : 1 , img:"https://hamanhonar.com/wp-content/uploads/2020/08/نقاشی-و-گرافیک-2.png"},
-     {"id" : 2 , img:"https://hamanhonar.com/wp-content/uploads/2020/08/موسیقی-1.png"},
-     {"id" : 3 , img:"https://hamanhonar.com/wp-content/uploads/2020/08/فیلم-و-سریال.png"},
-     {"id" : 4 , img:"https://hamanhonar.com/wp-content/uploads/2020/08/شعر-و-ادبیات-داستانی-2.png"},
+     {"id" : 1 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/نقاشی-و-گرافیک-2.png"},
+     {"id" : 2 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/موسیقی-1.png"},
+     {"id" : 3 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/فیلم-و-سریال.png"},
+     {"id" : 4 , "img" : "https://hamanhonar.com/wp-content/uploads/2020/08/شعر-و-ادبیات-داستانی-2.png"}
   ]
 }
